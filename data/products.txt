@@ -1,1 +1,29 @@
-[]
+[
+	{
+		title:'Pala Padel',
+		price:'149990',
+		thumbnail:'padel1.jpg',
+		id: 1
+	},
+
+	{
+		title:'Raqueta Tenis',
+		price:'219990',
+		thumbnail:'tenis1.jpg',
+		id: 2
+	},
+
+		{
+		title:'Pelota Futbol',
+		price:'29990',
+		thumbnail:'futbol1.jpg',
+		id: 3
+	},
+
+		{
+		title:'Pelota Voley',
+		price:'19990',
+		thumbnail:'voley1.jpg',
+		id: 4
+	},
+]
